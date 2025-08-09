@@ -96,7 +96,7 @@
     <p>Email: <a href="mailto:solomonprince15@gmail.com">solomonprince15@gmail.com</a></p>
     <p>Phone: <a href="tel:+917034169991">+91 7034169991</a></p>
     <p>LinkedIn: <a href="https://www.linkedin.com/in/solomon-prince-hentry-theodore-63b857209/" target="_blank">View Profile</a></p>
-    <p>GitHub: <a href="https://github.com/YOUR-GITHUB-USERNAME" target="_blank">My GitHub</a></p>
+    <p>GitHub: <a href="https://github.com/SolomonPrinceHentryTheodore" target="_blank">My GitHub</a></p>
   </section>
 
   <footer>
